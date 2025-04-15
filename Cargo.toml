@@ -1,0 +1,8 @@
+[package]
+name = "superstart"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+colored = "3.0.0"
+windows = { version = "0.61.1", features = ["Win32_System_SystemInformation"] }
