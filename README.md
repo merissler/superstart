@@ -1,6 +1,6 @@
 # Instructions
 
-Plop a shortcut in yer `startup` folder
+Plop a shortcut to `superstart.exe` in yer `startup` folder
 
 Run the thang
 
